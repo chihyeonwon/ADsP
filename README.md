@@ -10,6 +10,9 @@
 ![image](https://github.com/chihyeonwon/ADsP/assets/58906858/75d998d8-5476-4584-9f7a-5425e5a045da)
 ![image](https://github.com/chihyeonwon/ADsP/assets/58906858/b877a97f-6c1d-40b0-86b5-1d662d278b8b)
 
+#### 1과목 데이터이해
+![image](https://github.com/chihyeonwon/ADsP/assets/58906858/0d316fc6-65e3-42a3-832d-5a4d83538d3b)
+
 #### 3과목 통계학 개론
 
 #### 3과목 기초 통계분석
